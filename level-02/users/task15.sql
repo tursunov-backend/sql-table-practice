@@ -1,0 +1,1 @@
+SELECT last_name FROM users WHERE status = 'active' ORDER BY last_name ASC;

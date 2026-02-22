@@ -1,0 +1,1 @@
+SELECT * FROM users ORDER BY last_login_at DESC LIMIT 10;

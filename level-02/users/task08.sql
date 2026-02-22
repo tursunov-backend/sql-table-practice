@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE birth_date IS NOT NULL;

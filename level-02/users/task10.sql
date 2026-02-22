@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE last_login_at BETWEEN '2026-01-01' and '2026-01-10'
