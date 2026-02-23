@@ -1,0 +1,1 @@
+UPDATE products SET discount_price = price * 0.9 WHERE price BETWEEN 100 AND 300;

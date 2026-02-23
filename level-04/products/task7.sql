@@ -1,0 +1,2 @@
+DELETE FROM products
+WHERE price BETWEEN 50 AND 100;

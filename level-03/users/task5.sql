@@ -1,0 +1,1 @@
+UPDATE users SET phone = '998911234287' WHERE username = 'ali';

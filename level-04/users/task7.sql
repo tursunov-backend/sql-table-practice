@@ -1,0 +1,2 @@
+DELETE FROM users
+WHERE created_at BETWEEN '2020-01-01' AND '2020-12-31';
