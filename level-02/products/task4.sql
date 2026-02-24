@@ -1,2 +1,2 @@
 SELECT * FROM products
-WHERE stock_quantity > 0;
+WHERE discount_price IS NOT NULL;

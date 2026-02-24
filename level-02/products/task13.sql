@@ -1,0 +1,3 @@
+SELECT * FROM products
+ORDER BY price DESC
+LIMIT 10 OFFSET 1;
